@@ -48,7 +48,7 @@ public class GitDemo {
         for(int i = 1; i <= num; ++i){
             newNumber = newNumber * i;
         }
-        /*added the argument for new number*/
+        /*added the argument for new number1*/
         reverseNum = newNumber;
         return newNumber;
     }
